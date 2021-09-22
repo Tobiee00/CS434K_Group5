@@ -1,0 +1,3 @@
+module demoCongCu {
+	exports demoCongCu;
+}
